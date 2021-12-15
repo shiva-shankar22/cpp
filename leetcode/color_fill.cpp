@@ -74,22 +74,23 @@ int findCols(vector<string> str ,vector<vector<int>> &vis){
   return ans=prev;
 }
 
-int main(){
-
-    int n;
-  cin>>n;
-    vector<string> str(n);
-    
-    for(auto &it :str)
-        cin>>it;
-    
- int m=str[0].length();
+int intiColorfill(vector<string> &str){
+      int n=str.size();
+      int m=str[0].length();
     vector<vector<int>> vis(n,vector<int>(m,0));
-     
- 
-   
-    //cout<<"hello"<<endl;
-   cout<<endl<<findCols(str,vis)<<endl;
-   
-  return 0;
+    return findCols(str,vis);
+}
+
+int main(){
+  
+  int n;
+  cin>>n;
+
+   vector<string> str(n);
+
+  for(auto &it :str)
+     cin>>it;
+
+   cout<<endl<<intiColorfill(str)<<endl;
+    return 0;
 }
