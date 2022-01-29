@@ -19,14 +19,14 @@ using namespace std;
 void fun(vector<int> &arr,int idx,int n,vector<int> &ds,vector<vector<int>> &ans,int target){
          
           
-          if(target==0){ 
+          //if(target==0){ 
                      ans.push_back(ds);
-          return ;
-          }
+         // return ;
+          //}
        for(int i=idx;i<n;i++){
            if(i>idx && arr[i]==arr[i-1])continue;
 
-           if(arr[i]>target)break;
+           //if(arr[i]>target)break;
            
            ds.push_back(arr[i]);
            fun(arr,idx+1,n,ds,ans,target-arr[i]);
