@@ -2,12 +2,7 @@
 using namespace std;
 
 int main(){
-
-   string str="ssvp";
-
-   reverse(str.begin(),str.end());
-
-   cout<<str;
-
-    return 0;
+    
+    system("cd c:/users/ssvp/desktop/cpp  mkdir gfg");
+    //system("");
 }
