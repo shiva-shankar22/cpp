@@ -11,6 +11,9 @@ int rodC(int ar[],int l,int n){
         if(l-i>=0){
             q=max(q,ar[i-1]+rodC(ar,l-i,n));
         }
+        else{
+            break;
+        }
     
 
     return q;
