@@ -1,28 +1,17 @@
 #include<iostream>
-#include<bits/stdc++.h>
 using namespace std;
-
+struct node{
+    int x;
+   node(int k){
+       x=k;
+   }
+};
 
 int main(){
-    
-    int n;
-    cin>>n;
-    
-    int f=0,s=1;
-    int p_val=0;
-    
-    for(int i=0;i<n;i++){
-        if(i==0){
-          cout<<"1\n";continue;
-        }
-        for(int j=0;j<=i;j++){
-          p_val=s+f;
-            cout<<p_val<<" ";
-            f=s;
-            s=p_val;
-            
-        }
-        cout<<endl;
-    }
-    
+      
+      node t=node(5);
+      node tt=node(t.x+3);
+
+      cout<<tt.x<<endl;
+    return 0;
 }
