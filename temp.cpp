@@ -1,17 +1,27 @@
 #include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
-struct node{
-    int x;
-   node(int k){
-       x=k;
-   }
-};
 
 int main(){
-      
-      node t=node(5);
-      node tt=node(t.x+3);
+    int n;
+    cin>>n;
+    string str;
+    cin>>str;
 
-      cout<<tt.x<<endl;
+   int l=str.length();
+   int ans=0;
+   if(l==n){
+    map<char,int> mp;int maxi=INT_MIN;
+    for(int i=0;i<l;i++)mp[str[i]]++;
+    for(auto &it :mp)maxi=max(maxi,it.second);
+    ans=l-maxi;
+   }
+   else if(l>n){
+    
+   }
+   else if(l<n){
+
+   }
+
     return 0;
 }

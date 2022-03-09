@@ -14,7 +14,7 @@ bool isBipartite(vector<int> adj[],int s,vector<int> &col){
         
         for(auto &it : adj[s]){
            if(col[it]==-1){
-             col[it]=1-col[s];
+             col[it]=!col[s];
              if(isBipartite(adj,it,col))return true; 
            }
            else if(col[it]==col[s])return true;

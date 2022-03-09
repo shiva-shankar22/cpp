@@ -2,9 +2,10 @@
 #include<queue>
 #include<iostream>
 using namespace std;
+//min number of days to rotten all oranges in grid 
+// 0 represent empty 1 represent orange -1 represent rotten orange
 
-
-int rottenOranges(vector<vector<int>> &arr){
+int rottenOranges(vector<vector<int>> &grid){
        
 }
 

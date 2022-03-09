@@ -26,18 +26,18 @@ int countIslands(vector<vector<int>> &grid){
     queue<node> q;
     int dx[]={-1,1,0,0};
     int dy[]={0,0,1,-1};
-
+       
     for(int i=0;i<n;i++){
         for(int j=0;j<m;j++){
             if(vis[i][j] || grid[i][j]==0){
-                cout<<" continue at "<<i<<" "<<j<<endl;
+               // cout<<" continue at "<<i<<" "<<j<<endl;
                 continue;
                  
             }
             else{
 
                    vis[i][j]=true;
-                   ans++;
+                   int cnt=1;
                    
                    q.push(node(i,j));
 
@@ -51,13 +51,13 @@ int countIslands(vector<vector<int>> &grid){
                            if(isSafe(grid,vis,temp,n,m)){ 
                                vis[temp.x][temp.y]=1;
                                 q.push(temp);
-
-                                cout<<"inserting node at"<<i<<" "<<j<<endl;
+                                 cnt++;
+                                //cout<<"inserting node at"<<i<<" "<<j<<endl;
                            }
                        }
 
                    }
-
+              ans=max(ans,cnt);
             }
         }
     }

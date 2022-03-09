@@ -64,16 +64,19 @@ int main()
        if(i<n){
            if (str[i]=='N')
                 temp->left=NULL;
-           else
-           temp->left=new node(str[i++]);
+           else{ 
+               temp->left=new node(str[i++]);
+                q.push(temp->left);
+           } 
        } 
        
        if(i<n){
            if(str[i]=='N')
            temp->right=NULL;
-               else
-                    temp->right=new node(str[i]);
-           
+               else{ 
+                  temp->right=new node(str[i]);
+                q.push(temp->right); 
+               }
        } 
         
     }
