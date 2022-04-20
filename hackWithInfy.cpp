@@ -36,7 +36,7 @@ int solve(vector<int> &arr){
     for(int i=arr[idx]-1;i>=1;i--){
         for(int j=arr[idx]-1;j>=1;j--){
             if(i+j==arr[idx]){
-                if(isNon(arr,arr.size(),lidx))  
+                if(isNon(arr,arr.size(),lidx))  ;
             }
         }
     }
