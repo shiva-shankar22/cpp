@@ -1,8 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-bool isBipartite(vector<int> adj[],int s){
-    queue<int> q; int n=10;//no of nodes
+bool isBipartite(vector<vector<int>> &adj,int s){
+    queue<int> q; int n=adj.size();
    vector<int> col(n),vis(n,0);
    col[s]=0;vis[s]=1;
 

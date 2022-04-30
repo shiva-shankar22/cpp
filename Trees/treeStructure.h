@@ -1,4 +1,5 @@
 #include<iostream>
+#include<queue>
 #define null nullptr
 using namespace std;
 
@@ -12,6 +13,21 @@ struct node{
         x=ele;
     }
 };
+
+void levelOrder(node *root ){
+    if(!root)return ;
+
+    queue<node *> q;
+    q.push(root);
+
+   while(!q.empty()){
+       node *temp=q.front();
+         
+       cout<<temp->x<<" ";q.pop();
+       if(temp->left)q.push(temp->left);
+       if(temp->right)q.push(temp->right);
+   }
+}
 
 
 void insert(node *root,int data){
