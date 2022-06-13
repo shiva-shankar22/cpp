@@ -2,7 +2,7 @@
 using namespace std;
 
 
-int lcs(string &str,string &str2,int n,int m){
+int lcs(vector<int> &str,vector<int> &str2,int n,int m){
   
     
     vector<vector<int>> dp(n+1,vector<int> (m+1,0));
@@ -22,9 +22,7 @@ int lcs(string &str,string &str2,int n,int m){
 
     
 
-
-
-  string ans="";
+ vector<int> ans;
    bool flg=false;
       
       int i=n,j=m;
@@ -32,7 +30,7 @@ int lcs(string &str,string &str2,int n,int m){
      while(i>0 &&j>0) {  
             
             if(str[i-1]==str2[j-1]){
-                ans+=str[i-1];
+                ans.push_back(str[i-1]);
                 i--,j--;
             }
             else if(dp[i-1][j]>dp[i][j-1]){
@@ -47,16 +45,20 @@ int lcs(string &str,string &str2,int n,int m){
      // if(flg)break;
   
 
-  cout<<ans<<endl;
-
+  for(auto it :ans)cout<<it<<" ";
+ cout<<endl;
   return dp[n][m];
 }
 
 int main(){
+    int n,m;
+    cin>>n>>m;
+    vector<int> arr(n),arr2(m);
+
+    for(auto &it: arr)cin>>it;
+    for(auto &it: arr2)cin>>it;
     
-    string str2="xabcva",str="sivhsanr";
-  int n=str.length(),m=str2.length();
  // vector<vector<int>> dp(n,vector<int>(m,-1));
-    cout<<lcs(str,str2,m,n)<<endl;
+    cout<<lcs(arr,arr2,m,n)<<endl;
     return 0;
 }

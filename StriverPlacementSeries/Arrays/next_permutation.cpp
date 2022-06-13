@@ -10,9 +10,12 @@ void nextPermutation(vector<int> &arr,int n){
               break;
           }
    int val=arr[idx],i;
-   for( i=n-1;i>=0;i--)
+   for( i=n-1;i>idx;i--)
          if(arr[i]>val)break;
-    swap(arr[i],arr[idx]); 
+    swap(arr[i],arr[idx]);
+
+
+    reverse(arr.begin()+idx+1,arr.end()); 
 
 } 
 

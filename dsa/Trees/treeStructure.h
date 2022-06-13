@@ -19,6 +19,15 @@ node* create(node *root,int val){
    return root;
 }
 
+int maxDepth(node *root){
+
+    if(root==nullptr)return 0;
+
+    int val= max(maxDepth(root->left),maxDepth(root->right));
+
+    return val+1;
+}
+
 void insert(node *root,int value){
     if(root==NULL) 
         return ;
