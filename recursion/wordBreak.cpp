@@ -9,19 +9,6 @@ unordered_map<string,int> mp;
 bool wordBreakstring(string str,int n){
    
    if(n==0)return true;
-   
-
-   
-// code for clarity on substrings     
-// for(int i=1,n=str.length();i<=n;i++){
-//         string s1=str.substr(0,i);
-//         cout<<s1<<endl;
-//         string s2=str.substr(i,n);
-//         cout<<s2<<endl;
-//    }
-
-
-
 
 /* 
   we start with 1 to make sure that partition has made 
@@ -47,12 +34,14 @@ bool wordBreakstring(string str,int n){
 
 int main(){
 
-   vector<string> ar={"i","like"};
+   vector<string> ar={"apple","pen"};
+   //"applepenapple"
+
 
     for(auto &it:ar)
         mp[it]++;
     
-   string str="ilike";
+   string str="applepenapple";
 
   
   if(wordBreakstring(str,5))

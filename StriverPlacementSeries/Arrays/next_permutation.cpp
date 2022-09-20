@@ -21,16 +21,19 @@ void nextPermutation(vector<int> &arr,int n){
 
 int main(){
 
-    vector<int> ar={1,4,3,2,6,7,8};
+    vector<int> ar={1,2,3};
     
-    vector<int> ar2={1,4,3,2,6,7,8};
+    vector<int> ar2={1,2,3};
 
-    nextPermutation(ar,7);
-    next_permutation(ar2.begin(),ar2.end());
+    // nextPermutation(ar,7);
+    // next_permutation(ar2.begin(),ar2.end());
     
-    for(auto &it:ar)
-       cout<<it<<" ";
-       cout<<endl;
-     for(auto &it:ar2)
-       cout<<it<<" ";
+    // for(auto &it:ar)
+    //    cout<<it<<" ";
+    //    cout<<endl;
+    //  for(auto &it:ar2)
+    //    cout<<it<<" ";
+       string str="ssgg";
+      
+      cout<<str<<endl;
 }

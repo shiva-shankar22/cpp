@@ -23,10 +23,10 @@ for(auto it:mp)
   cout<<it.first<<" "<<it.second<<endl;
 
 auto it=mp.begin();
-auto i=mp.begin()+1;
+auto i=mp.begin();
 
-if(it.first==i.first){
-     if(it.second>i.second)
+if(it->first==i->first){
+     if(it->second>i.second)
        cout<<i.second;
      else
         cout<<it.second;

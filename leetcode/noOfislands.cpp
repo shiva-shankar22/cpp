@@ -37,8 +37,8 @@ int countIslands(vector<vector<int>> &grid){
             else{
 
                    vis[i][j]=true;
-                   int cnt=1;
-                   
+                   //int cnt=1;
+                   ans++;
                    q.push(node(i,j));
 
                    while(!q.empty()){
@@ -51,13 +51,13 @@ int countIslands(vector<vector<int>> &grid){
                            if(isSafe(grid,vis,temp,n,m)){ 
                                vis[temp.x][temp.y]=1;
                                 q.push(temp);
-                                 cnt++;
+                                // cnt++;
                                 //cout<<"inserting node at"<<i<<" "<<j<<endl;
                            }
                        }
 
                    }
-              ans=max(ans,cnt);
+              //ans=max(ans,cnt);
             }
         }
     }

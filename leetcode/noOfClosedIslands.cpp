@@ -19,38 +19,6 @@ bool isSafe(vector<vector<int>> &grid,vector<vector<bool>> &vis,struct node ele,
   return true;
 }
 
-void findoutBoundary(vector<vector<bool>> &vis,vector<vector<int>> &grid,int n,int m,int dx[],int dy[]){
-    queue<node> q;
-     for(int i=0;i<n;i++){
-        for(int j=0;j<m;j++){
-            if(vis[i][j] || grid[i][j]==1){
-               // cout<<" continue at "<<i<<" "<<j<<endl;
-                continue;
-                 
-            }
-            else if((i*j==0)| i==n-1 |j==m-1){
-                   vis[i][j]=true;              
-                   q.push(node(i,j));
-
-                   while(!q.empty()){
-                       node cur_node=q.front();
-                       q.pop();
-
-                       for(int i=0;i<4;i++){
-                           node temp=node(cur_node.x+dx[i],cur_node.y+dy[i]);
-
-                           if(isSafe(grid,vis,temp,n,m)){ 
-                               vis[temp.x][temp.y]=1;
-                                q.push(temp);
-                           }
-                       }
-
-                   }
-            }
-        }
-    }
-}
-
 int closedIsland(vector<vector<int>> &grid){
     int ans=0,n=grid.size(),m=grid[0].size(); 
     vector<vector<bool>> vis(n,vector<bool>(m,false));
@@ -59,21 +27,16 @@ int closedIsland(vector<vector<int>> &grid){
     int dx[]={-1,1,0,0};
     int dy[]={0,0,1,-1};
 
-    
-   findoutBoundary(vis,grid,n,m,dx,dy);
-
-       
     for(int i=0;i<n;i++){
         for(int j=0;j<m;j++){
             if(vis[i][j] || grid[i][j]==1){
-               // cout<<" continue at "<<i<<" "<<j<<endl;
                 continue;
                  
             }
             else{
                     ans++;
                    vis[i][j]=true;
-                   
+                   int cnt=1;
                   
                    q.push(node(i,j));
 
@@ -87,19 +50,16 @@ int closedIsland(vector<vector<int>> &grid){
                            if(isSafe(grid,vis,temp,n,m)){ 
                                vis[temp.x][temp.y]=1;
                                 q.push(temp);
-                              //   cnt++;
+                                 cnt++;
                                 //cout<<"inserting node at"<<i<<" "<<j<<endl;
                            }
                        }
 
                    }
-             // ans=max(ans,cnt);
+              ans=max(ans,cnt);
             }
         }
     }
- 
-
-
     return ans;
 }
 

@@ -21,15 +21,11 @@ int dy[]={0,-1,1,0};
 string str="DLRU";
 
 void solve(vector<string> &ans,string ds,vector<vector<int>> &grid,int i,int j,int n,int m,vector<vector<bool>> &vis){
-            if(i<=-1 || j<=-1){
+            if(i<=-1 || j<=-1 || i>=n || j>=m){
               //  cout<<"lesser than n || m \n";
                 return;
             }
-             //   return;
-            if(i>=n || j>=m){
-            //    cout<<"greater than n || m \n";
-                return;
-            }
+             
             if(i==n-1 && j==m-1){
             //    cout<<"answer"<<endl;
                 ans.push_back(ds);
