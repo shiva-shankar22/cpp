@@ -1,0 +1,1207 @@
+a a b b c c a a 
+a a b b c c aa  
+a a b b c ca a  
+a a b b c caa   
+a a b b cc a a  
+a a b b cc aa   
+a a b b cca a   
+a a b b ccaa    
+a a b bc c a a  
+a a b bc c aa   
+a a b bc ca a   
+a a b bc caa    
+a a b bcc a a   
+a a b bcc aa    
+a a b bcca a    
+a a b bccaa     
+a a bb c c a a  
+a a bb c c aa
+a a bb c ca a 
+a a bb c caa
+a a bb cc a a
+a a bb cc aa
+a a bb cca a
+a a bb ccaa
+a a bbc c a a
+a a bbc c aa
+a a bbc ca a
+a a bbc caa
+a a bbcc a a
+a a bbcc aa
+a a bbcca a
+a a bbccaa 
+a ab b c c a a
+a ab b c c aa
+a ab b c ca a
+a ab b c caa
+a ab b cc a a
+a ab b cc aa
+a ab b cca a
+a ab b ccaa
+a ab bc c a a
+a ab bc c aa
+a ab bc ca a
+a ab bc caa 
+a ab bcc a a
+a ab bcc aa
+a ab bcca a
+a ab bccaa
+a abb c c a a
+a abb c c aa
+a abb c ca a
+a abb c caa
+a abb cc a a
+a abb cc aa
+a abb cca a
+a abb ccaa
+a abbc c a a
+a abbc c aa
+a abbc ca a
+a abbc caa
+a abbcc a a 
+a abbcc aa
+a abbcca a
+a abbccaa
+aa b b c c a a
+aa b b c c aa
+aa b b c ca a
+aa b b c caa
+aa b b cc a a
+aa b b cc aa
+aa b b cca a
+aa b b ccaa
+aa b bc c a a
+aa b bc c aa
+aa b bc ca a
+aa b bc caa
+aa b bcc a a 
+aa b bcc aa
+aa b bcca a
+aa b bccaa
+aa bb c c a a
+aa bb c c aa
+aa bb c ca a
+aa bb c caa
+aa bb cc a a
+aa bb cc aa
+aa bb cca a
+aa bb ccaa
+aa bbc c a a
+aa bbc c aa
+aa bbc ca a 
+aa bbc caa
+aa bbcc a a
+aa bbcc aa
+aa bbcca a
+aa bbccaa
+aab b c c a a
+aab b c c aa
+aab b c ca a
+aab b c caa
+aab b cc a a
+aab b cc aa
+aab b cca a
+aab b ccaa
+aab bc c a a
+aab bc c aa
+aab bc ca a
+aab bc caa 
+aab bcc a a
+aab bcc aa
+aab bcca a
+aab bccaa
+aabb c c a a
+aabb c c aa
+aabb c ca a
+aabb c caa
+aabb cc a a
+aabb cc aa
+aabb cca a
+aabb ccaa
+aabbc c a a
+aabbc c aa
+aabbc ca a
+aabbc caa
+aabbcc a a
+aabbcc aa
+aabbcca a
+aabbccaa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aabbccaabbaabb
+
+
+
+
+
+
+
+
+
+
+
+
+
+aab bccaab ba abb 
+aab bccaab baa b b
+aab bccaab baa bb
+aab bccaab baab b
+aab bccaab baabb
+aab bccaabb a a b b
+aab bccaabb a a bb
+aab bccaabb a ab b
+aab bccaabb a abb
+aab bccaabb aa b b
+aab bccaabb aa bb
+aab bccaabb aab b
+aab bccaabb aabb
+aab bccaabba a b b
+aab bccaabba a bb
+aab bccaabba ab b
+aab bccaabba abb
+aab bccaabbaa b b 
+aab bccaabbaa bb
+aab bccaabbaab b
+aab bccaabbaabb
+aabb c c a a b b a a b b
+aabb c c a a b b a a bb
+aabb c c a a b b a ab b
+aabb c c a a b b a abb
+aabb c c a a b b aa b b
+aabb c c a a b b aa bb
+aabb c c a a b b aab b
+aabb c c a a b b aabb
+aabb c c a a b ba a b b
+aabb c c a a b ba a bb 
+aabb c c a a b ba ab b
+aabb c c a a b ba abb
+aabb c c a a b baa b b
+aabb c c a a b baa bb
+aabb c c a a b baab b
+aabb c c a a b baabb
+aabb c c a a bb a a b b
+aabb c c a a bb a a bb
+aabb c c a a bb a ab b
+aabb c c a a bb a abb
+aabb c c a a bb aa b b 
+aabb c c a a bb aa bb
+aabb c c a a bb aab b
+aabb c c a a bb aabb
+aabb c c a a bba a b b
+aabb c c a a bba a bb
+aabb c c a a bba ab b
+aabb c c a a bba abb
+aabb c c a a bbaa b b
+aabb c c a a bbaa bb
+aabb c c a a bbaab b
+aabb c c a a bbaabb
+aabb c c a ab b a a b b 
+aabb c c a ab b a a bb
+aabb c c a ab b a ab b
+aabb c c a ab b a abb
+aabb c c a ab b aa b b
+aabb c c a ab b aa bb
+aabb c c a ab b aab b
+aabb c c a ab b aabb
+aabb c c a ab ba a b b
+aabb c c a ab ba a bb
+aabb c c a ab ba ab b
+aabb c c a ab ba abb
+aabb c c a ab baa b b 
+aabb c c a ab baa bb
+aabb c c a ab baab b
+aabb c c a ab baabb
+aabb c c a abb a a b b
+aabb c c a abb a a bb
+aabb c c a abb a ab b
+aabb c c a abb a abb
+aabb c c a abb aa b b
+aabb c c a abb aa bb
+aabb c c a abb aab b
+aabb c c a abb aabb
+aabb c c a abba a b b
+aabb c c a abba a bb
+aabb c c a abba ab b 
+aabb c c a abba abb
+aabb c c a abbaa b b
+aabb c c a abbaa bb
+aabb c c a abbaab b
+aabb c c a abbaabb
+aabb c c aa b b a a b b
+aabb c c aa b b a a bb
+aabb c c aa b b a ab b
+aabb c c aa b b a abb
+aabb c c aa b b aa b b
+aabb c c aa b b aa bb
+aabb c c aa b b aab b 
+aabb c c aa b b aabb
+aabb c c aa b ba a b b
+aabb c c aa b ba a bb
+aabb c c aa b ba ab b
+aabb c c aa b ba abb
+aabb c c aa b baa b b
+aabb c c aa b baa bb
+aabb c c aa b baab b
+aabb c c aa b baabb
+aabb c c aa bb a a b b
+aabb c c aa bb a a bb
+aabb c c aa bb a ab b
+aabb c c aa bb a abb 
+aabb c c aa bb aa b b
+aabb c c aa bb aa bb
+aabb c c aa bb aab b
+aabb c c aa bb aabb
+aabb c c aa bba a b b
+aabb c c aa bba a bb
+aabb c c aa bba ab b
+aabb c c aa bba abb
+aabb c c aa bbaa b b
+aabb c c aa bbaa bb
+aabb c c aa bbaab b
+aabb c c aa bbaabb
+aabb c c aab b a a b b 
+aabb c c aab b a a bb
+aabb c c aab b a ab b
+aabb c c aab b a abb
+aabb c c aab b aa b b
+aabb c c aab b aa bb
+aabb c c aab b aab b
+aabb c c aab b aabb
+aabb c c aab ba a b b
+aabb c c aab ba a bb
+aabb c c aab ba ab b
+aabb c c aab ba abb
+aabb c c aab baa b b 
+aabb c c aab baa bb
+aabb c c aab baab b
+aabb c c aab baabb
+aabb c c aabb a a b b
+aabb c c aabb a a bb
+aabb c c aabb a ab b
+aabb c c aabb a abb
+aabb c c aabb aa b b
+aabb c c aabb aa bb
+aabb c c aabb aab b
+aabb c c aabb aabb
+aabb c c aabba a b b
+aabb c c aabba a bb
+aabb c c aabba ab b 
+aabb c c aabba abb
+aabb c c aabbaa b b
+aabb c c aabbaa bb
+aabb c c aabbaab b
+aabb c c aabbaabb
+aabb c ca a b b a a b b
+aabb c ca a b b a a bb
+aabb c ca a b b a ab b
+aabb c ca a b b a abb
+aabb c ca a b b aa b b
+aabb c ca a b b aa bb
+aabb c ca a b b aab b 
+aabb c ca a b b aabb
+aabb c ca a b ba a b b
+aabb c ca a b ba a bb
+aabb c ca a b ba ab b
+aabb c ca a b ba abb
+aabb c ca a b baa b b
+aabb c ca a b baa bb
+aabb c ca a b baab b
+aabb c ca a b baabb
+aabb c ca a bb a a b b
+aabb c ca a bb a a bb 
+aabb c ca a bb a ab b
+aabb c ca a bb a abb
+aabb c ca a bb aa b b
+aabb c ca a bb aa bb
+aabb c ca a bb aab b
+aabb c ca a bb aabb
+aabb c ca a bba a b b
+aabb c ca a bba a bb
+aabb c ca a bba ab b
+aabb c ca a bba abb 
+aabb c ca a bbaa b b
+aabb c ca a bbaa bb
+aabb c ca a bbaab b
+aabb c ca a bbaabb
+aabb c ca ab b a a b b
+aabb c ca ab b a a bb
+aabb c ca ab b a ab b
+aabb c ca ab b a abb
+aabb c ca ab b aa b b
+aabb c ca ab b aa bb
+aabb c ca ab b aab b
+aabb c ca ab b aabb 
+aabb c ca ab ba a b b
+aabb c ca ab ba a bb
+aabb c ca ab ba ab b
+aabb c ca ab ba abb
+aabb c ca ab baa b b
+aabb c ca ab baa bb
+aabb c ca ab baab b
+aabb c ca ab baabb
+aabb c ca abb a a b b
+aabb c ca abb a a bb
+aabb c ca abb a ab b
+aabb c ca abb a abb
+aabb c ca abb aa b b 
+aabb c ca abb aa bb
+aabb c ca abb aab b
+aabb c ca abb aabb
+aabb c ca abba a b b
+aabb c ca abba a bb
+aabb c ca abba ab b
+aabb c ca abba abb
+aabb c ca abbaa b b
+aabb c ca abbaa bb
+aabb c ca abbaab b
+aabb c ca abbaabb
+aabb c caa b b a a b b
+aabb c caa b b a a bb 
+aabb c caa b b a ab b
+aabb c caa b b a abb
+aabb c caa b b aa b b
+aabb c caa b b aa bb
+aabb c caa b b aab b
+aabb c caa b b aabb
+aabb c caa b ba a b b
+aabb c caa b ba a bb
+aabb c caa b ba ab b
+aabb c caa b ba abb
+aabb c caa b baa b b
+aabb c caa b baa bb
+aabb c caa b baab b 
+aabb c caa b baabb
+aabb c caa bb a a b b
+aabb c caa bb a a bb
+aabb c caa bb a ab b
+aabb c caa bb a abb
+aabb c caa bb aa b b
+aabb c caa bb aa bb
+aabb c caa bb aab b
+aabb c caa bb aabb
+aabb c caa bba a b b
+aabb c caa bba a bb
+aabb c caa bba ab b
+aabb c caa bba abb
+aabb c caa bbaa b b
+aabb c caa bbaa bb
+aabb c caa bbaab b
+aabb c caa bbaabb
+aabb c caab b a a b b
+aabb c caab b a a bb
+aabb c caab b a ab b
+aabb c caab b a abb
+aabb c caab b aa b b
+aabb c caab b aa bb
+aabb c caab b aab b
+aabb c caab b aabb
+aabb c caab ba a b b
+aabb c caab ba a bb 
+aabb c caab ba ab b
+aabb c caab ba abb
+aabb c caab baa b b
+aabb c caab baa bb
+aabb c caab baab b
+aabb c caab baabb
+aabb c caabb a a b b
+aabb c caabb a a bb
+aabb c caabb a ab b
+aabb c caabb a abb
+aabb c caabb aa b b
+aabb c caabb aa bb
+aabb c caabb aab b
+aabb c caabb aabb 
+aabb c caabba a b b
+aabb c caabba a bb
+aabb c caabba ab b
+aabb c caabba abb
+aabb c caabbaa b b
+aabb c caabbaa bb
+aabb c caabbaab b
+aabb c caabbaabb
+aabb cc a a b b a a b b
+aabb cc a a b b a a bb
+aabb cc a a b b a ab b
+aabb cc a a b b a abb
+aabb cc a a b b aa b b
+aabb cc a a b b aa bb
+aabb cc a a b b aab b 
+aabb cc a a b b aabb
+aabb cc a a b ba a b b
+aabb cc a a b ba a bb
+aabb cc a a b ba ab b
+aabb cc a a b ba abb
+aabb cc a a b baa b b
+aabb cc a a b baa bb
+aabb cc a a b baab b
+aabb cc a a b baabb
+aabb cc a a bb a a b b
+aabb cc a a bb a a bb 
+aabb cc a a bb a ab b
+aabb cc a a bb a abb
+aabb cc a a bb aa b b
+aabb cc a a bb aa bb 
+aabb cc a a bb aab b
+aabb cc a a bb aabb
+aabb cc a a bba a b b
+aabb cc a a bba a bb
+aabb cc a a bba ab b
+aabb cc a a bba abb
+aabb cc a a bbaa b b
+aabb cc a a bbaa bb
+aabb cc a a bbaab b 
+aabb cc a a bbaabb
+aabb cc a ab b a a b b
+aabb cc a ab b a a bb
+aabb cc a ab b a ab b
+aabb cc a ab b a abb
+aabb cc a ab b aa b b
+aabb cc a ab b aa bb
+aabb cc a ab b aab b
+aabb cc a ab b aabb
+aabb cc a ab ba a b b
+aabb cc a ab ba a bb 
+aabb cc a ab ba ab b
+aabb cc a ab ba abb
+aabb cc a ab baa b b
+aabb cc a ab baa bb
+aabb cc a ab baab b
+aabb cc a ab baabb
+aabb cc a abb a a b b
+aabb cc a abb a a bb
+aabb cc a abb a ab b
+aabb cc a abb a abb
+aabb cc a abb aa b b
+aabb cc a abb aa bb
+aabb cc a abb aab b
+aabb cc a abb aabb 
+aabb cc a abba a b b
+aabb cc a abba a bb
+aabb cc a abba ab b
+aabb cc a abba abb
+aabb cc a abbaa b b
+aabb cc a abbaa bb
+aabb cc a abbaab b
+aabb cc a abbaabb
+aabb cc aa b b a a b b
+aabb cc aa b b a a bb
+aabb cc aa b b a ab b
+aabb cc aa b b a abb
+aabb cc aa b b aa b b 
+aabb cc aa b b aa bb
+aabb cc aa b b aab b
+aabb cc aa b b aabb
+aabb cc aa b ba a b b
+aabb cc aa b ba a bb
+aabb cc aa b ba ab b
+aabb cc aa b ba abb
+aabb cc aa b baa b b
+aabb cc aa b baa bb
+aabb cc aa b baab b
+aabb cc aa b baabb
+aabb cc aa bb a a b b 
+aabb cc aa bb a a bb
+aabb cc aa bb a ab b
+aabb cc aa bb a abb
+aabb cc aa bb aa b b
+aabb cc aa bb aa bb
+aabb cc aa bb aab b
+aabb cc aa bb aabb
+aabb cc aa bba a b b
+aabb cc aa bba a bb
+aabb cc aa bba ab b
+aabb cc aa bba abb
+aabb cc aa bbaa b b
+aabb cc aa bbaa bb 
+aabb cc aa bbaab b
+aabb cc aa bbaabb
+aabb cc aab b a a b b
+aabb cc aab b a a bb
+aabb cc aab b a ab b
+aabb cc aab b a abb
+aabb cc aab b aa b b
+aabb cc aab b aa bb
+aabb cc aab b aab b
+aabb cc aab b aabb
+aabb cc aab ba a b b
+aabb cc aab ba a bb
+aabb cc aab ba ab b 
+aabb cc aab ba abb
+aabb cc aab baa b b
+aabb cc aab baa bb
+aabb cc aab baab b
+aabb cc aab baabb
+aabb cc aabb a a b b
+aabb cc aabb a a bb
+aabb cc aabb a ab b
+aabb cc aabb a abb
+aabb cc aabb aa b b
+aabb cc aabb aa bb
+aabb cc aabb aab b
+aabb cc aabb aabb
+aabb cc aabba a b b 
+aabb cc aabba a bb
+aabb cc aabba ab b
+aabb cc aabba abb
+aabb cc aabbaa b b
+aabb cc aabbaa bb
+aabb cc aabbaab b
+aabb cc aabbaabb
+aabb cca a b b a a b b
+aabb cca a b b a a bb
+aabb cca a b b a ab b
+aabb cca a b b a abb
+aabb cca a b b aa b b
+aabb cca a b b aa bb
+aabb cca a b b aab b 
+aabb cca a b b aabb
+aabb cca a b ba a b b
+aabb cca a b ba a bb
+aabb cca a b ba ab b
+aabb cca a b ba abb
+aabb cca a b baa b b
+aabb cca a b baa bb
+aabb cca a b baab b
+aabb cca a b baabb
+aabb cca a bb a a b b
+aabb cca a bb a a bb
+aabb cca a bb a ab b 
+aabb cca a bb a abb
+aabb cca a bb aa b b
+aabb cca a bb aa bb
+aabb cca a bb aab b
+aabb cca a bb aabb
+aabb cca a bba a b b
+aabb cca a bba a bb
+aabb cca a bba ab b
+aabb cca a bba abb
+aabb cca a bbaa b b
+aabb cca a bbaa bb
+aabb cca a bbaab b 
+aabb cca a bbaabb
+aabb cca ab b a a b b
+aabb cca ab b a a bb
+aabb cca ab b a ab b
+aabb cca ab b a abb
+aabb cca ab b aa b b
+aabb cca ab b aa bb
+aabb cca ab b aab b
+aabb cca ab b aabb
+aabb cca ab ba a b b
+aabb cca ab ba a bb
+aabb cca ab ba ab b 
+aabb cca ab ba abb
+aabb cca ab baa b b
+aabb cca ab baa bb
+aabb cca ab baab b
+aabb cca ab baabb
+aabb cca abb a a b b
+aabb cca abb a a bb
+aabb cca abb a ab b
+aabb cca abb a abb
+aabb cca abb aa b b
+aabb cca abb aa bb
+aabb cca abb aab b
+aabb cca abb aabb
+aabb cca abba a b b 
+aabb cca abba a bb
+aabb cca abba ab b
+aabb cca abba abb
+aabb cca abbaa b b
+aabb cca abbaa bb
+aabb cca abbaab b
+aabb cca abbaabb
+aabb ccaa b b a a b b
+aabb ccaa b b a a bb
+aabb ccaa b b a ab b
+aabb ccaa b b a abb
+aabb ccaa b b aa b b
+aabb ccaa b b aa bb 
+aabb ccaa b b aab b
+aabb ccaa b b aabb
+aabb ccaa b ba a b b
+aabb ccaa b ba a bb
+aabb ccaa b ba ab b
+aabb ccaa b ba abb
+aabb ccaa b baa b b
+aabb ccaa b baa bb
+aabb ccaa b baab b
+aabb ccaa b baabb
+aabb ccaa bb a a b b
+aabb ccaa bb a a bb
+aabb ccaa bb a ab b 
+aabb ccaa bb a abb
+aabb ccaa bb aa b b
+aabb ccaa bb aa bb
+aabb ccaa bb aab b
+aabb ccaa bb aabb
+aabb ccaa bba a b b
+aabb ccaa bba a bb
+aabb ccaa bba ab b
+aabb ccaa bba abb
+aabb ccaa bbaa b b
+aabb ccaa bbaa bb
+aabb ccaa bbaab b
+aabb ccaa bbaabb
+aabb ccaab b a a b b
+aabb ccaab b a a bb 
+aabb ccaab b a ab b
+aabb ccaab b a abb
+aabb ccaab b aa b b
+aabb ccaab b aa bb
+aabb ccaab b aab b
+aabb ccaab b aabb
+aabb ccaab ba a b b
+aabb ccaab ba a bb
+aabb ccaab ba ab b
+aabb ccaab ba abb
+aabb ccaab baa b b
+aabb ccaab baa bb
+aabb ccaab baab b
+aabb ccaab baabb 
+aabb ccaabb a a b b
+aabb ccaabb a a bb
+aabb ccaabb a ab b
+aabb ccaabb a abb
+aabb ccaabb aa b b
+aabb ccaabb aa bb
+aabb ccaabb aab b
+aabb ccaabb aabb
+aabb ccaabba a b b
+aabb ccaabba a bb
+aabb ccaabba ab b
+aabb ccaabba abb
+aabb ccaabbaa b b
+aabb ccaabbaa bb
+aabb ccaabbaab b
+aabb ccaabbaabb
+aabbc c a a b b a a b b
+aabbc c a a b b a a bb 
+aabbc c a a b b a ab b
+aabbc c a a b b a abb
+aabbc c a a b b aa b b
+aabbc c a a b b aa bb
+aabbc c a a b b aab b
+aabbc c a a b b aabb
+aabbc c a a b ba a b b
+aabbc c a a b ba a bb
+aabbc c a a b ba ab b
+aabbc c a a b ba abb
+aabbc c a a b baa b b
+aabbc c a a b baa bb
+aabbc c a a b baab b
+aabbc c a a b baabb
+aabbc c a a bb a a b b
+aabbc c a a bb a a bb
+aabbc c a a bb a ab b
+aabbc c a a bb a abb
+aabbc c a a bb aa b b
+aabbc c a a bb aa bb
+aabbc c a a bb aab b
+aabbc c a a bb aabb
+aabbc c a a bba a b b
+aabbc c a a bba a bb 
+aabbc c a a bba ab b
+aabbc c a a bba abb
+aabbc c a a bbaa b b
+aabbc c a a bbaa bb
+aabbc c a a bbaab b
+aabbc c a a bbaabb
+aabbc c a ab b a a b b
+aabbc c a ab b a a bb
+aabbc c a ab b a ab b
+aabbc c a ab b a abb
+aabbc c a ab b aa b b
+aabbc c a ab b aa bb
+aabbc c a ab b aab b
+aabbc c a ab b aabb
+aabbc c a ab ba a b b
+aabbc c a ab ba a bb
+aabbc c a ab ba ab b
+aabbc c a ab ba abb
+aabbc c a ab baa b b
+aabbc c a ab baa bb
+aabbc c a ab baab b
+aabbc c a ab baabb
+aabbc c a abb a a b b
+aabbc c a abb a a bb
+aabbc c a abb a ab b 
+aabbc c a abb a abb
+aabbc c a abb aa b b
+aabbc c a abb aa bb
+aabbc c a abb aab b
+aabbc c a abb aabb
+aabbc c a abba a b b
+aabbc c a abba a bb
+aabbc c a abba ab b
+aabbc c a abba abb
+aabbc c a abbaa b b
+aabbc c a abbaa bb
+aabbc c a abbaab b
+aabbc c a abbaabb
+aabbc c aa b b a a b b 
+aabbc c aa b b a a bb
+aabbc c aa b b a ab b
+aabbc c aa b b a abb
+aabbc c aa b b aa b b
+aabbc c aa b b aa bb
+aabbc c aa b b aab b
+aabbc c aa b b aabb
+aabbc c aa b ba a b b
+aabbc c aa b ba a bb
+aabbc c aa b ba ab b
+aabbc c aa b ba abb
+aabbc c aa b baa b b 
+aabbc c aa b baa bb
+aabbc c aa b baab b
+aabbc c aa b baabb
+aabbc c aa bb a a b b
+aabbc c aa bb a a bb
+aabbc c aa bb a ab b
+aabbc c aa bb a abb
+aabbc c aa bb aa b b
+aabbc c aa bb aa bb
+aabbc c aa bb aab b
+aabbc c aa bb aabb
+aabbc c aa bba a b b
+aabbc c aa bba a bb
+aabbc c aa bba ab b 
+aabbc c aa bba abb
+aabbc c aa bbaa b b
+aabbc c aa bbaa bb
+aabbc c aa bbaab b
+aabbc c aa bbaabb
+aabbc c aab b a a b b
+aabbc c aab b a a bb
+aabbc c aab b a ab b
+aabbc c aab b a abb
+aabbc c aab b aa b b
+aabbc c aab b aa bb
+aabbc c aab b aab b
+aabbc c aab b aabb
+aabbc c aab ba a b b 
+aabbc c aab ba a bb
+aabbc c aab ba ab b
+aabbc c aab ba abb
+aabbc c aab baa b b
+aabbc c aab baa bb
+aabbc c aab baab b
+aabbc c aab baabb
+aabbc c aabb a a b b
+aabbc c aabb a a bb
+aabbc c aabb a ab b
+aabbc c aabb a abb
+aabbc c aabb aa b b
+aabbc c aabb aa bb 
+aabbc c aabb aab b
+aabbc c aabb aabb
+aabbc c aabba a b b
+aabbc c aabba a bb
+aabbc c aabba ab b
+aabbc c aabba abb
+aabbc c aabbaa b b
+aabbc c aabbaa bb
+aabbc c aabbaab b
+aabbc c aabbaabb
+aabbc ca a b b a a b b
+aabbc ca a b b a a bb
+aabbc ca a b b a ab b
+aabbc ca a b b a abb
+aabbc ca a b b aa b b 
+aabbc ca a b b aa bb
+aabbc ca a b b aab b
+aabbc ca a b b aabb
+aabbc ca a b ba a b b
+aabbc ca a b ba a bb
+aabbc ca a b ba ab b
+aabbc ca a b ba abb
+aabbc ca a b baa b b
+aabbc ca a b baa bb
+aabbc ca a b baab b
+aabbc ca a b baabb
+aabbc ca a bb a a b b
+aabbc ca a bb a a bb 
+aabbc ca a bb a ab b
+aabbc ca a bb a abb
+aabbc ca a bb aa b b
+aabbc ca a bb aa bb
+aabbc ca a bb aab b
+aabbc ca a bb aabb
+aabbc ca a bba a b b
+aabbc ca a bba a bb
+aabbc ca a bba ab b
+aabbc ca a bba abb
+aabbc ca a bbaa b b
+aabbc ca a bbaa bb
+aabbc ca a bbaab b 
+aabbc ca a bbaabb
+aabbc ca ab b a a b b
+aabbc ca ab b a a bb
+aabbc ca ab b a ab b
+aabbc ca ab b a abb
+aabbc ca ab b aa b b
+aabbc ca ab b aa bb
+aabbc ca ab b aab b
+aabbc ca ab b aabb
+aabbc ca ab ba a b b
+aabbc ca ab ba a bb
+aabbc ca ab ba ab b
+aabbc ca ab ba abb 
+aabbc ca ab baa b b
+aabbc ca ab baa bb
+aabbc ca ab baab b
+aabbc ca ab baabb
+aabbc ca abb a a b b
+aabbc ca abb a a bb
+aabbc ca abb a ab b
+aabbc ca abb a abb
+aabbc ca abb aa b b
+aabbc ca abb aa bb
+aabbc ca abb aab b
+aabbc ca abb aabb
+aabbc ca abba a b b 
+aabbc ca abba a bb
+aabbc ca abba ab b
+aabbc ca abba abb
+aabbc ca abbaa b b
+aabbc ca abbaa bb
+aabbc ca abbaab b
+aabbc ca abbaabb
+aabbc caa b b a a b b
+aabbc caa b b a a bb
+aabbc caa b b a ab b
+aabbc caa b b a abb 
+aabbc caa b b aa b b
+aabbc caa b b aa bb
+aabbc caa b b aab b
+aabbc caa b b aabb
+aabbc caa b ba a b b
+aabbc caa b ba a bb
+aabbc caa b ba ab b
+aabbc caa b ba abb
+aabbc caa b baa b b
+aabbc caa b baa bb
+aabbc caa b baab b 
+aabbc caa b baabb
+aabbc caa bb a a b b
+aabbc caa bb a a bb
+aabbc caa bb a ab b
+aabbc caa bb a abb
+aabbc caa bb aa b b
+aabbc caa bb aa bb
+aabbc caa bb aab b
+aabbc caa bb aabb
+aabbc caa bba a b b
+aabbc caa bba a bb
+aabbc caa bba ab b 
+aabbc caa bba abb
+aabbc caa bbaa b b
+aabbc caa bbaa bb
+aabbc caa bbaab b
+aabbc caa bbaabb
+aabbc caab b a a b b
+aabbc caab b a a bb
+aabbc caab b a ab b
+aabbc caab b a abb
+aabbc caab b aa b b
+aabbc caab b aa bb
+aabbc caab b aab b 
+aabbc caab b aabb
+aabbc caab ba a b b
+aabbc caab ba a bb
+aabbc caab ba ab b
+aabbc caab ba abb
+aabbc caab baa b b
+aabbc caab baa bb
+aabbc caab baab b
+aabbc caab baabb
+aabbc caabb a a b b
+aabbc caabb a a bb
+aabbc caabb a ab b
+aabbc caabb a abb
+aabbc caabb aa b b
+aabbc caabb aa bb
+aabbc caabb aab b
+aabbc caabb aabb
+aabbc caabba a b b 
+aabbc caabba a bb
+aabbc caabba ab b
+aabbc caabba abb
+aabbc caabbaa b b
+aabbc caabbaa bb
+aabbc caabbaab b
+aabbc caabbaabb
+aabbcc a a b b a a b b
+aabbcc a a b b a a bb
+aabbcc a a b b a ab b
+aabbcc a a b b a abb
+aabbcc a a b b aa b b
+aabbcc a a b b aa bb
+aabbcc a a b b aab b 
+aabbcc a a b b aabb
+aabbcc a a b ba a b b
+aabbcc a a b ba a bb
+aabbcc a a b ba ab b
+aabbcc a a b ba abb
+aabbcc a a b baa b b
+aabbcc a a b baa bb
+aabbcc a a b baab b
+aabbcc a a b baabb
+aabbcc a a bb a a b b
+aabbcc a a bb a a bb
+aabbcc a a bb a ab b
+aabbcc a a bb a abb
+aabbcc a a bb aa b b 
+aabbcc a a bb aa bb
+aabbcc a a bb aab b
+aabbcc a a bb aabb
+aabbcc a a bba a b b
+aabbcc a a bba a bb
+aabbcc a a bba ab b
+aabbcc a a bba abb
+aabbcc a a bbaa b b
+aabbcc a a bbaa bb
+aabbcc a a bbaab b
+aabbcc a a bbaabb
+aabbcc a ab b a a b b
+aabbcc a ab b a a bb 
+aabbcc a ab b a ab b
+aabbcc a ab b a abb
+aabbcc a ab b aa b b
+aabbcc a ab b aa bb
+aabbcc a ab b aab b
+aabbcc a ab b aabb
+aabbcc a ab ba a b b
+aabbcc a ab ba a bb
+aabbcc a ab ba ab b
+aabbcc a ab ba abb
+aabbcc a ab baa b b
+aabbcc a ab baa bb
+aabbcc a ab baab b
+aabbcc a ab baabb 
+aabbcc a abb a a b b
+aabbcc a abb a a bb
+aabbcc a abb a ab b
+aabbcc a abb a abb
+aabbcc a abb aa b b
+aabbcc a abb aa bb
+aabbcc a abb aab b
+aabbcc a abb aabb
+aabbcc a abba a b b
+aabbcc a abba a bb
+aabbcc a abba ab b
+aabbcc a abba abb
+aabbcc a abbaa b b
+aabbcc a abbaa bb
+aabbcc a abbaab b 
+aabbcc a abbaabb
+aabbcc aa b b a a b b
+aabbcc aa b b a a bb
+aabbcc aa b b a ab b
+aabbcc aa b b a abb
+aabbcc aa b b aa b b
+aabbcc aa b b aa bb
+aabbcc aa b b aab b
+aabbcc aa b b aabb
+aabbcc aa b ba a b b
+aabbcc aa b ba a bb
+aabbcc aa b ba ab b
+aabbcc aa b ba abb
+aabbcc aa b baa b b 
+aabbcc aa b baa bb
+aabbcc aa b baab b
+aabbcc aa b baabb
+aabbcc aa bb a a b b
+aabbcc aa bb a a bb
+aabbcc aa bb a ab b
+aabbcc aa bb a abb
+aabbcc aa bb aa b b
+aabbcc aa bb aa bb
+aabbcc aa bb aab b
+aabbcc aa bb aabb
+aabbcc aa bba a b b
+aabbcc aa bba a bb 
+aabbcc aa bba ab b
+aabbcc aa bba abb
+aabbcc aa bbaa b b
+aabbcc aa bbaa bb
+aabbcc aa bbaab b
+aabbcc aa bbaabb
+aabbcc aab b a a b b
+aabbcc aab b a a bb
+aabbcc aab b a ab b
+aabbcc aab b a abb
+aabbcc aab b aa b b
+aabbcc aab b aa bb
+aabbcc aab b aab b
+aabbcc aab b aabb 
+aabbcc aab ba a b b
+aabbcc aab ba a bb
+aabbcc aab ba ab b
+aabbcc aab ba abb
+aabbcc aab baa b b
+aabbcc aab baa bb
+aabbcc aab baab b
+aabbcc aab baabb
+aabbcc aabb a a b b
+aabbcc aabb a a bb
+aabbcc aabb a ab b
+aabbcc aabb a abb
+aabbcc aabb aa b b
+aabbcc aabb aa bb
+aabbcc aabb aab b
+aabbcc aabb aabb
+aabbcc aabba a b b 
+aabbcc aabba a bb
+aabbcc aabba ab b
+aabbcc aabba abb
+aabbcc aabbaa b b
+aabbcc aabbaa bb
+aabbcc aabbaab b
+aabbcc aabbaabb
+aabbcca a b b a a b b
+aabbcca a b b a a bb
+aabbcca a b b a ab b
+aabbcca a b b a abb
+aabbcca a b b aa b b
+aabbcca a b b aa bb
+aabbcca a b b aab b
+aabbcca a b b aabb 
+aabbcca a b ba a b b
+aabbcca a b ba a bb
+aabbcca a b ba ab b
+aabbcca a b ba abb
+aabbcca a b baa b b
+aabbcca a b baa bb
+aabbcca a b baab b
+aabbcca a b baabb
+aabbcca a bb a a b b
+aabbcca a bb a a bb
+aabbcca a bb a ab b
+aabbcca a bb a abb
+aabbcca a bb aa b b
+aabbcca a bb aa bb
+aabbcca a bb aab b 
+aabbcca a bb aabb
+aabbcca a bba a b b
+aabbcca a bba a bb
+aabbcca a bba ab b
+aabbcca a bba abb
+aabbcca a bbaa b b
+aabbcca a bbaa bb
+aabbcca a bbaab b
+aabbcca a bbaabb
+aabbcca ab b a a b b
+aabbcca ab b a a bb
+aabbcca ab b a ab b
+aabbcca ab b a abb
+aabbcca ab b aa b b
+aabbcca ab b aa bb
+aabbcca ab b aab b
+aabbcca ab b aabb 
+aabbcca ab ba a b b
+aabbcca ab ba a bb
+aabbcca ab ba ab b
+aabbcca ab ba abb
+aabbcca ab baa b b
+aabbcca ab baa bb
+aabbcca ab baab b
+aabbcca ab baabb
+aabbcca abb a a b b
+aabbcca abb a a bb
+aabbcca abb a ab b
+aabbcca abb a abb
+aabbcca abb aa b b
+aabbcca abb aa bb
+aabbcca abb aab b
+aabbcca abb aabb
+aabbcca abba a b b
+aabbcca abba a bb 
+aabbcca abba ab b
+aabbcca abba abb
+aabbcca abbaa b b
+aabbcca abbaa bb
+aabbcca abbaab b
+aabbcca abbaabb
+aabbccaa b b a a b b
+aabbccaa b b a a bb
+aabbccaa b b a ab b
+aabbccaa b b a abb
+aabbccaa b b aa b b
+aabbccaa b b aa bb
+aabbccaa b b aab b
+aabbccaa b b aabb
+aabbccaa b ba a b b
+aabbccaa b ba a bb
+aabbccaa b ba ab b 
+aabbccaa b ba abb
+aabbccaa b baa b b
+aabbccaa b baa bb
+aabbccaa b baab b
+aabbccaa b baabb
+aabbccaa bb a a b b
+aabbccaa bb a a bb
+aabbccaa bb a ab b
+aabbccaa bb a abb
+aabbccaa bb aa b b
+aabbccaa bb aa bb
+aabbccaa bb aab b
+aabbccaa bb aabb
+aabbccaa bba a b b
+aabbccaa bba a bb
+aabbccaa bba ab b
+aabbccaa bba abb 
+aabbccaa bbaa b b
+aabbccaa bbaa bb
+aabbccaa bbaab b
+aabbccaa bbaabb
+aabbccaab b a a b b
+aabbccaab b a a bb
+aabbccaab b a ab b
+aabbccaab b a abb
+aabbccaab b aa b b
+aabbccaab b aa bb
+aabbccaab b aab b
+aabbccaab b aabb
+aabbccaab ba a b b
+aabbccaab ba a bb
+aabbccaab ba ab b
+aabbccaab ba abb
+aabbccaab baa b b
+aabbccaab baa bb
+aabbccaab baab b
+aabbccaab baabb
+aabbccaabb a a b b
+aabbccaabb a a bb
+aabbccaabb a ab b
+aabbccaabb a abb
+aabbccaabb aa b b
+aabbccaabb aa bb
+aabbccaabb aab b
+aabbccaabb aabb
+aabbccaabba a b b
+aabbccaabba a bb
+aabbccaabba ab b
+aabbccaabba abb
+aabbccaabbaa b b
+aabbccaabbaa bb
+aabbccaabbaab b
+aabbccaabbaabb
+
+
+
+
